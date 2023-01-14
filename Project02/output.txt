@@ -1,0 +1,10 @@
+1000, 1000, Karim Sammouri, 2000 Low Street, Oxford, OH, 30309, 345-45-4564, 9099.03
+1010, 1001, Sarah Williams, 3240 Pin Street, Santa Monica, WA, 45056, 456-44-4564, 2344.65
+1020, 1002, Jacbo Lewis, 5598 Main Street, Brooklyn, NY, 53452, 546-45-7864, 2344.0
+1030, 1003, Avery Wilson, 9532 King Street, Manhattan, NY, 56245, 123-45-5675, 6546.0
+1040, 1004, Jackson Chord, 3242 Maple Street, Miami, FL, 33345, 456-45-2352, 5433.0
+1050, 1005, Sean Mayhem, 3456 Book Street, Los Angeles, CA, 65735, 567-45-4673, 6566.0
+1060, 1006, Sierra Dime, 9376 Nine Street, San Diego, CA, 56435, 456-45-5864, 8666.0
+1070, 1007, Ahmad Mahfouz, 6372 Tower Street, Canton, UT, 34523, 123-45-3466, 45664.0
+1080, 1008, Rafid Pinto, 4728 Queen Street, Concordia, NJ, 45342, 446-45-3245, 1211.0
+1090, 1009, Procis Cruz, 7578 High Street, Houston, TX, 34634, 755-45-2222, 567785.0
