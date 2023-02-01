@@ -9,8 +9,8 @@
   Pro.
  </p>
  
- <h2>Start</h2>
+ <h2>Start State</h2>
  <img width="500" src="https://github.com/karimsammouri/MU-CSE-271/blob/main/Project04/Screenshots/Start.png">
  
-  <h2>Live</h2>
+  <h2>Live Sample</h2>
  <img width="500" src="https://github.com/karimsammouri/MU-CSE-271/blob/main/Project04/Screenshots/Live.png">
