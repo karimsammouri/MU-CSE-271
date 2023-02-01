@@ -10,7 +10,7 @@
  </p>
  
  <h2>Start State</h2>
- <img width="500" src="https://github.com/karimsammouri/MU-CSE-271/blob/main/Project04/Screenshots/Start.png">
+ <img width="500" src="https://github.com/karimsammouri/MU-CSE-271/blob/main/Project04/Screenshots/StartState.png">
  
   <h2>Live Sample</h2>
- <img width="500" src="https://github.com/karimsammouri/MU-CSE-271/blob/main/Project04/Screenshots/Live.png">
+ <img width="500" src="https://github.com/karimsammouri/MU-CSE-271/blob/main/Project04/Screenshots/LiveSample.png">
